@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "oXs_RP2040")(type "KiCad")(uri "C:/tmp/_OpenAVRc/oXs_RP2040/oXs_RP2040_Full")(options "")(descr ""))
-)
