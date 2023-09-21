@@ -1,4 +1,4 @@
-# Shield OpenAVRc Transmitter
+# How to wire oXs board
 
 <table border="2">
 <tr>
